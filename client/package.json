@@ -21,7 +21,7 @@
     "eslint-utils": "^2.0.0",
     "graphql": "^14.4.2",
     "history": "^4.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
